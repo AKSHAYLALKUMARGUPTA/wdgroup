@@ -1,0 +1,40 @@
+body{
+background:yellow;
+}
+.top{
+text-align:center;
+background:#B95752;
+padding:10px 0;
+color:white;
+}
+.jsr {
+    background:#F2C38B;
+    text-align:center;
+    padding:20px 0;
+  
+}
+.jsr h1{
+    color:#74353F;
+}
+.jsr img{
+   width:110px;
+}
+.akshay h2{
+   text-align:center;
+}
+.akshay{
+    background:white;
+}
+.akshay p:last-child{
+text-align:right;
+}
+.akshay b{
+text-align:center;
+}
+.akshay img{
+    background-position:center;
+   
+}
+.akshay h6{
+   text-align:right;
+}
